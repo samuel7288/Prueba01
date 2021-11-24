@@ -1,2 +1,3 @@
 Bienvenidos todos los estudiantes del Curso de FrontEnd
-Jovenes por favor en cada linea escriban una frase que se les venga a la mente
+
+El que madruga Dios le ayuda
